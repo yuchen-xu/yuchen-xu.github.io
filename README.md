@@ -1,3 +1,3 @@
 # yuchen-xu.github.io
 
-Hello World
+Work in progress. Check back later :)
