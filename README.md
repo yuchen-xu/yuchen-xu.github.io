@@ -1,3 +1,3 @@
 # yuchen-xu.github.io
 
-Work in progress. Check back later :)
+Work in progress. Check back later!
